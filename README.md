@@ -1,6 +1,13 @@
 # Hi, I'm Yiqing Yin! 👋
+🌱 I’m currently learning and exploring Artificial Intelligence ~ ~
+💬 Ask me about anything you like 
+📫 How to reach me: yinyiqing1230@126.com
+❤  ⁺✞ʚ Eager to learn more about Artificial Intelligence ɞ✟₊
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yinyiqing)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yinyiqing)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **yinyiqing/yinyiqing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
