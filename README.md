@@ -3,7 +3,7 @@
 🌱 **Currently Learning:** Artificial Intelligence & Machine Learning  
 💬 **Ask me about:** Anything you like!  
 📫 **How to reach me:** yinyiqing1230@126.com  
-❤️ **Passionate about:** Advancing my knowledge in Artificial Intelligence
+❤️ **Passionate about:** Advancing my knowledge ~~
 
 ---
 
