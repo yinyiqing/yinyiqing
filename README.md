@@ -10,22 +10,15 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<!-- 主要统计卡片 - 有备用方案 -->
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=yinyiqing&show_icons=true&theme=radical&count_private=true" 
-       onerror="this.onerror=null; this.src='https://github-readme-stats-seven-rosy.vercel.app/api?username=yinyiqing&show_icons=true&theme=radical&count_private=true';"
-       alt="Yiqing's GitHub stats" />
-</a>
-
-<!-- 语言统计卡片 - 有备用方案 -->
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yinyiqing&layout=compact&theme=radical&hide=html,css" 
-       onerror="this.onerror=null; this.src='https://github-readme-stats-seven-rosy.vercel.app/api/top-langs/?username=yinyiqing&layout=compact&theme=radical&hide=html,css';"
-       alt="Top Languages" />
-</a>
+  
+[![Yiqing's GitHub stats](https://github-readme-stats.vercel.app/api?username=yinyiqing&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub followers](https://img.shields.io/github/followers/yinyiqing?style=for-the-badge)
+![GitHub stars](https://img.shields.io/github/stars/yinyiqing?style=for-the-badge)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yinyiqing&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
+
+修改完给我
 
 <!--
 **yinyiqing/yinyiqing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
