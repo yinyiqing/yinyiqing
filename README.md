@@ -10,9 +10,20 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-[![Yiqing's GitHub stats](https://github-readme-stats.vercel.app/api?username=yinyiqing&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yinyiqing&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+<!-- 主要统计卡片 - 有备用方案 -->
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=yinyiqing&show_icons=true&theme=radical&count_private=true" 
+       onerror="this.onerror=null; this.src='https://github-readme-stats-seven-rosy.vercel.app/api?username=yinyiqing&show_icons=true&theme=radical&count_private=true';"
+       alt="Yiqing's GitHub stats" />
+</a>
+
+<!-- 语言统计卡片 - 有备用方案 -->
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yinyiqing&layout=compact&theme=radical&hide=html,css" 
+       onerror="this.onerror=null; this.src='https://github-readme-stats-seven-rosy.vercel.app/api/top-langs/?username=yinyiqing&layout=compact&theme=radical&hide=html,css';"
+       alt="Top Languages" />
+</a>
 
 </div>
 
