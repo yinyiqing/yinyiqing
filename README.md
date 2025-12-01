@@ -12,8 +12,7 @@
 <div align="center">
   
 [![Yiqing's GitHub stats](https://github-readme-stats.vercel.app/api?username=yinyiqing&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-![GitHub followers](https://img.shields.io/github/followers/yinyiqing?style=for-the-badge)
-![GitHub stars](https://img.shields.io/github/stars/yinyiqing?style=for-the-badge)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yinyiqing&theme=monokai)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yinyiqing&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
