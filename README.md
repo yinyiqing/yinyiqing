@@ -12,8 +12,9 @@
 <div align="center">
   
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yinyiqing&theme=monokai)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yinyiqing&layout=compact&theme=radical)
-
+![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yinyiqing&theme=monokai)
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yinyiqing&theme=monokai)
+![Summary Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yinyiqing&theme=monokai)
 
 </div>
 
