@@ -12,8 +12,7 @@
 <div align="center">
   
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yinyiqing&theme=monokai)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yinyiqing&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yinyiqing&layout=compact&theme=radical)
 
 
 </div>
