@@ -14,7 +14,9 @@
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yinyiqing&theme=monokai)
 ![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yinyiqing&theme=monokai)
 ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yinyiqing&theme=monokai)
-![Summary Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yinyiqing&theme=monokai)
+
+![Fast Stats](https://github-readme-stats-fastapi.vercel.app/api?username=yinyiqing&show_icons=true&theme=monokai)
+![Fast Langs](https://github-readme-stats-fastapi.vercel.app/api/top-langs/?username=yinyiqing&layout=compact&theme=radical)
 
 </div>
 
