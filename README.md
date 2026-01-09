@@ -1,6 +1,6 @@
 # Hi, I'm Yiqing Yin! 👋
 
-🌱 **Currently Learning:** Artificial Intelligence & Machine Learning  
+🌱 **Currently Learning:** Artificial Intelligence
 💬 **Ask me about:** Anything you like!  
 📫 **How to reach me:** yinyiqing1230@126.com  
 ❤️ **Passionate about:** Advancing knowledge ~~
